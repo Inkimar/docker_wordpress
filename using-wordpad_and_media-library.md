@@ -38,5 +38,14 @@ And you are ready to go watch our super helpful intro video!
 
 NextGEN Gallery has been the industry’s standard WordPress gallery plugin since 2007 and continues to receive over 1.5 million new downloads per year. It’s easy for simple photo galleries, but powerful enough for the most demanding photographers, visual artists, and imaging professionals.
 
+## testar
+https://wordpress.org/plugins/search/media+library/ 
 
+### filebird
+https://wordpress.org/plugins/filebird/ 
+- Free and Pro
+
+```
+FileBird enhances your media library with clean UI, native icons, smooth drag & drop, advanced sort and organization.
+```
 
