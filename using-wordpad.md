@@ -5,6 +5,7 @@ Möjligt att skala bilder etc.
 ## Ladda upp bilder
 - laddar upp en bild 
 - kan hämta bild , kopiera URL , http://localhost:8080/wp-content/uploads/2021/09/tv-test-pattern-146649_960_720.png 
+- går det att förenkla denna URl?
 - **Q: Hämtar bara bild, men inte metadata ... ?** Går det att hämta metadatan ?
 
 ### hur integrerar man detta exempelvis med naturforskaren?
@@ -19,7 +20,10 @@ Extra
 - om man kan dela upp det i kataloger ?
 - vilket tillägg passar ?
 
-# med 'media librarry'-tillägg.
+# med 'media library'-tillägg.
+- vilket passar bäst
+- kan man ge en wordpress-användare enbart tillgång att lägga upp bilder ?
+- 
 https://sv.wordpress.org/plugins/media-library-plus/
 
 
