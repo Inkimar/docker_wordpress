@@ -14,3 +14,11 @@ This image does not provide any additional PHP extensions or other libraries, ev
 If you need additional PHP extensions, you'll need to **create your own image FROM this one**. 
 The documentation of the php image explains how to compile additional extensions. 
 Additionally, the wordpress Dockerfile has an example of doing this.
+
+### php
+https://github.com/docker-library/docs/blob/master/php/README.md#how-to-install-more-php-extensions
+
+```
+If you need additional PHP extensions, you'll need to create your own image FROM this one. 
+The documentation of the php image explains how to compile additional extensions. Additionally, the wordpress Dockerfile has an example of doing this.
+```
