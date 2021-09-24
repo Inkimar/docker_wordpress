@@ -49,3 +49,28 @@ https://wordpress.org/plugins/filebird/
 FileBird enhances your media library with clean UI, native icons, smooth drag & drop, advanced sort and organization.
 ```
 
+### media-library-assistant -> 70,000+ active installations 
+https://wordpress.org/plugins/media-library-assistant/ 
+
+----------------------------------------------------------------------
+
+### Enhanced Media Library -> 100,000+ active installations 
+https://wordpress.org/plugins/enhanced-media-library/
+- Free and Pro
+
+1. Loggar in på wordpress.org och markera det som 'favorit'
+2. egen wordpress, 'lägg till tillägg' -> http://localhost:8080/wp-admin/plugin-install.php?tab=favorites 
+3. tryck på 'hämta favoriter'
+4. tryck på 'installera'
+
+```
+Developer-Friendly
+
+    Core hooks just work for media taxonomies and media items
+    All taxonomies supported: custom and code-registered
+    REST API supported out of the box
+    No custom tables in the database
+    Deactivation makes no harm to data: all media items and taxonomies remain after deactivation
+
+```
+
