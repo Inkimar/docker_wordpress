@@ -62,6 +62,7 @@ https://wordpress.org/plugins/enhanced-media-library/
 2. egen wordpress, 'lägg till tillägg' -> http://localhost:8080/wp-admin/plugin-install.php?tab=favorites 
 3. tryck på 'hämta favoriter'
 4. tryck på 'installera'
+5. tryck på 'aktivera'
 
 ```
 Developer-Friendly
