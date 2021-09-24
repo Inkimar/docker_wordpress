@@ -41,7 +41,7 @@ NextGEN Gallery has been the industry’s standard WordPress gallery plugin sinc
 ## testar
 https://wordpress.org/plugins/search/media+library/ 
 
-### filebird
+### filebird -> 100,000+ active installations  
 https://wordpress.org/plugins/filebird/ 
 - Free and Pro
 
