@@ -23,8 +23,16 @@ Extra
 # med 'media library'-tillägg.
 - vilket passar bäst
 - kan man ge en wordpress-användare enbart tillgång att lägga upp bilder ?
-- 
+
+## testar.
 https://sv.wordpress.org/plugins/media-library-plus/
+
+-> Using Media Library Folders for WordPress 
+```
+To get started download and install the Media Library Folders for WordPress plugin. 
+Once Media Library Folders for WordPress is activated you will see Media Library Folders for WordPress in the WordPress dashboard menu. 
+And you are ready to go watch our super helpful intro video!
+```
 
 
 
