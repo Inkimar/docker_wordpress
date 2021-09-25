@@ -9,6 +9,16 @@
 2. kunna ladda upp pdf etc
 3. Skapa en användare som bara kan lunderhålla 1 lista med ...
 
+### wordpress, 'Lägg till användare'
+Följande roller finns
+1. prenumerant
+2. bidragsgivare
+3. författare
+4. redaktör
+5. Administratör
+
+- **Q: finns det möjlighet att ha en 'bildredaktör' ?**
+
 # orginal installation, utan tillägg
 
 Möjligt att skala bilder etc.
