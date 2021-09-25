@@ -1,3 +1,9 @@
+# kravspec på media-bibliotek
+1. - **Q: Hämtar bara bild, men inte metadata ... ?** Går det att hämta metadatan ? 
+2. Bulkuppladda ?
+3. Skapa en användare som bara kan lägga till bilder ?
+
+
 # orginal installation, utan tillägg
 
 Möjligt att skala bilder etc.
