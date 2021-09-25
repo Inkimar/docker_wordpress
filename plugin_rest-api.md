@@ -1,4 +1,16 @@
 # rest api 
+
+1. För att få det att fungera: se -> https://stackoverflow.com/questions/34670533/wordpress-rest-api-wp-api-404-error-cannot-access-the-wordpress-rest-api 
+2. http://localhost:8080/wp-admin/options-permalink.php 
+3. Go to admin, settings, permalinks, choose "inkläggsnamn" 
+
+## denna visar alla möjligheter
+1. http://localhost:8080/wp-json/wp/v2 
+2. http://localhost:8080/wp-json/wp/v2/posts/?per_page=1
+3. /wp/v2/posts/?per_page=1
+
+
+##
 https://webdesign.tutsplus.com/tutorials/how-to-use-the-wordpress-rest-api-a-practical-tutorial--cms-33566
 
 
