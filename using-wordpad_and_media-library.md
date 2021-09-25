@@ -21,6 +21,7 @@ Möjligt att skala bilder etc.
 ### borde pass Tobias och Zoologi
 - ladda upp bilder
 - hämta bilder via url
+- skapa en hiearki, Zoology/entomology etc
 
 Extra 
 - om man kan dela upp det i kataloger ?
@@ -60,6 +61,8 @@ https://wordpress.org/plugins/media-library-assistant/
 
 ----------------------------------------------------------------------
 
+----------------------------------------------------------------------
+
 ### Enhanced Media Library -> 100,000+ active installations 
 https://wordpress.org/plugins/enhanced-media-library/
 - Free and Pro
@@ -81,3 +84,6 @@ Developer-Friendly
 
 ```
 
+#### pro
+- bulk edit ( vad betyder det ?)
+- sökning i 'titles'/'captions'/'descriptions'/'authors' etc
