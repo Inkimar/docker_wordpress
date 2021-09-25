@@ -4,6 +4,10 @@
 3. Bulkuppladda ?
 4. Skapa en användare som bara kan lägga till bilder ?
 
+## kravspec på Wordpress (ex. fjärilslistan) 
+1. kunna ladda upp excel-filer
+2. kunna ladda upp pdf etc
+3. Skapa en användare som bara kan lunderhålla 1 lista med ...
 
 # orginal installation, utan tillägg
 
@@ -19,14 +23,15 @@ Möjligt att skala bilder etc.
 - ladda upp
 - hämta
 
-### borde pass Tobias och Zoologi
+### wordpress[enhanced Media Library] borde passa Tobias och Zoologi/Entomologi, spara och hämta bilder
 - ladda upp bilder
 - hämta bilder via url
-- skapa en hiearki, Zoology/entomology etc
+- skapa en hiearki, Zoology/entomology etc (se Enhanced Media Library=
 
-Extra 
-- om man kan dela upp det i kataloger ?
-- vilket tillägg passar ?
+### wordpress [som det är] borde passa Tobias och fjärilslistor ?
+Se exempelvis denna checklista -> https://euphrasia.nu/ 
+
+
 
 # med 'media library'-tillägg.
 - vilket passar bäst
@@ -93,3 +98,5 @@ The plugin incorporates a file type into media filters if you wish.
 #### pro
 - bulk edit ( vad betyder det ?)
 - sökning i 'titles'/'captions'/'descriptions'/'authors' etc
+
+https://wpuxsolutions.com/plugins/enhanced-media-library-pro
