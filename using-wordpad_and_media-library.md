@@ -1,7 +1,8 @@
 # kravspec på media-bibliotek
-1. - **Q: Hämtar bara bild, men inte metadata ... ?** Går det att hämta metadatan ? 
-2. Bulkuppladda ?
-3. Skapa en användare som bara kan lägga till bilder ?
+1. Hämtar  bild, men inte metadata ... ?
+2. Hämtar bild, Går det att hämta metadatan ? 
+3. Bulkuppladda ?
+4. Skapa en användare som bara kan lägga till bilder ?
 
 
 # orginal installation, utan tillägg
@@ -83,6 +84,11 @@ Developer-Friendly
     Deactivation makes no harm to data: all media items and taxonomies remain after deactivation
 
 ```
+
+#### MIME Types Management
+
+Add or remove file types, allow or disallow uploading.
+The plugin incorporates a file type into media filters if you wish. 
 
 #### pro
 - bulk edit ( vad betyder det ?)
