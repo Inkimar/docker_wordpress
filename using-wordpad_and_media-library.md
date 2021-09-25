@@ -11,7 +11,8 @@
 2. kunna ladda upp pdf etc
 3. Skapa en användare som bara kan lunderhålla 1 lista med ...
 
-### wordpress, 'Lägg till användare'
+### wordpress, vad finns
+- 'Lägg till användare'
 Följande roller finns
 1. prenumerant
 2. bidragsgivare
@@ -20,6 +21,8 @@ Följande roller finns
 5. Administratör
 
 - **Q: finns det möjlighet att ha en 'bildredaktör' ?**
+
+Uppladdning av bilder -> 'Maximal filstorlek för uppladdning: 2 MB.  '
 
 # orginal installation, utan tillägg
 
