@@ -1,8 +1,10 @@
 # kravspec på media-bibliotek
-1. Hämtar  bild, men inte metadata ... ?
+1. Hämtar  bild via URL
 2. Hämtar bild, Går det att hämta metadatan ? 
 3. Bulkuppladda ?
 4. Skapa en användare som bara kan lägga till bilder ?
+5. Hur fungerar REST API i plug-in Enhanced Media Library ? 
+6. Kan man lägga till extra fält, metadata(key/value) , såsom ex 'Licens-type' 
 
 ## kravspec på Wordpress (ex. fjärilslistan) 
 1. kunna ladda upp excel-filer
@@ -36,7 +38,10 @@ Möjligt att skala bilder etc.
 ### wordpress[enhanced Media Library] borde passa Tobias och Zoologi/Entomologi, spara och hämta bilder
 - ladda upp bilder
 - hämta bilder via url
-- skapa en hiearki, Zoology/entomology etc (se Enhanced Media Library=
+- skapa en hiearki, Zoology/entomology etc (se Enhanced Media Library)
+
+-> https://wpuxsolutions.com/support/create-new-ticket 
+
 
 ### wordpress [som det är] borde passa Tobias och fjärilslistor ?
 Se exempelvis denna checklista -> https://euphrasia.nu/ 
