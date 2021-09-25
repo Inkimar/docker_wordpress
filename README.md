@@ -20,5 +20,21 @@ https://github.com/docker-library/docs/blob/master/php/README.md#how-to-install-
 
 ```
 If you need additional PHP extensions, you'll need to create your own image FROM this one. 
-The documentation of the php image explains how to compile additional extensions. Additionally, the wordpress Dockerfile has an example of doing this.
+The documentation of the php image explains how to compile additional extensions. 
+Additionally, the wordpress Dockerfile has an example of doing this.
+```
+ see here -> https://github.com/docker-library/wordpress/blob/618490d4bdff6c5774b84b717979bfe3d6ba8ad1/apache/Dockerfile#L5-L9 
+
+Dockerfile
+
+```
+FROM php:5.6-apache
+
+RUN a2enmod rewrite
+
+# install the PHP extensions we need
+RUN apt-get update && apt-get install -y libpng12-dev libjpeg-dev && rm -rf /var/lib/apt/lists/* \
+	&& docker-php-ext-configure gd --with-png-dir=/usr --with-jpeg-dir=/usr \
+	&& docker-php-ext-install gd
+RUN docker-php-ext-install mysqli
 ```
