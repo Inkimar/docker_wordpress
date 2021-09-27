@@ -8,6 +8,9 @@
 4. Denna beskriver API:t -> localhost:8080/wp-json/wp/v2/ 
 5. Denna fungerar -> http://localhost:8080/wp-json/wp/v2/media 
 
+## dokumentation
+-> https://developer.wordpress.org/rest-api/reference/media/#retrieve-a-media-item 
+
 ## Korrekt: hämtar ut media-fil för media-id = 35
 - curl http://localhost:8080/wp-json/wp/v2/media/35 | jq 
 
