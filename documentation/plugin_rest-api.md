@@ -7,6 +7,8 @@
 5. Denna fungerar -> http://localhost:8080/wp-json/wp/v2/media 
 6. Denna fungerar -> http://localhost:8080/wp-json/wp/v2/media/?P34 
 
+curl http://localhost:8080/wp-json/wp/v2/media/35 | jq 
+
 ## denna visar alla möjligheter
 1. http://localhost:8080/wp-json/wp/v2 
 2. http://localhost:8080/wp-json/wp/v2/posts/?per_page=1
