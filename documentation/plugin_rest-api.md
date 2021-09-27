@@ -2,7 +2,10 @@
 
 1. För att få det att fungera: se -> https://stackoverflow.com/questions/34670533/wordpress-rest-api-wp-api-404-error-cannot-access-the-wordpress-rest-api 
 2. http://localhost:8080/wp-admin/options-permalink.php 
-3. Go to admin, settings, permalinks, choose "inkläggsnamn" 
+3. Go to admin, settings, permalinks, choose "inläggsnamn" 
+4. Denna beskriver API:t -> localhost:8080/wp-json/wp/v2/ 
+5. Denna fungerar -> http://localhost:8080/wp-json/wp/v2/media 
+6. Denna fungerar -> http://localhost:8080/wp-json/wp/v2/media/?P34 
 
 ## denna visar alla möjligheter
 1. http://localhost:8080/wp-json/wp/v2 
