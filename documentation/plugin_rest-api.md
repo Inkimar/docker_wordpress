@@ -1,8 +1,21 @@
 # rest api 
 
+
+
 1. För att få det att fungera: se -> https://stackoverflow.com/questions/34670533/wordpress-rest-api-wp-api-404-error-cannot-access-the-wordpress-rest-api 
 2. http://localhost:8080/wp-admin/options-permalink.php 
-3. Go to admin, settings, permalinks, choose "inkläggsnamn" 
+3. Go to admin, settings, permalinks, choose "inläggsnamn" 
+4. Denna beskriver API:t -> localhost:8080/wp-json/wp/v2/ 
+5. Denna fungerar -> http://localhost:8080/wp-json/wp/v2/media 
+
+## dokumentation
+-> https://developer.wordpress.org/rest-api/reference/media/#retrieve-a-media-item 
+
+## Korrekt: hämtar ut media-fil för media-id = 35
+- curl http://localhost:8080/wp-json/wp/v2/media/35 | jq 
+
+## se databas: här hämta ut för post 36
+- curl http://localhost:8080/wp-json/wp/v2/posts/36 | jq 
 
 ## denna visar alla möjligheter
 1. http://localhost:8080/wp-json/wp/v2 
