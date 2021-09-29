@@ -39,3 +39,12 @@ RUN apt-get update && apt-get install -y libpng12-dev libjpeg-dev && rm -rf /var
 RUN docker-php-ext-install mysqli
 ```
 
+
+
+# curl and RESTful
+Fetching information from a media
+- curl http://localhost:8080/wp-json/wp/v2/media/31 | jq 
+
+Fetching information from a post
+- curl http://localhost:8080/wp-json/wp/v2/posts/36 | jq 
+- 
